@@ -1,1 +1,1 @@
-# React_Tic_Tac_Toe
+# Simple React Tic Tac Toe Project
